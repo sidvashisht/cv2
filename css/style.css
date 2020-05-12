@@ -1,0 +1,63 @@
+body{
+  /* margin-left: 0; */
+  margin: 0;
+}
+.topbar{
+  padding-top: 10px;
+  background-color: #4d3e3e;
+  height: 35px;
+}
+.about{
+  margin-left: 1250px;
+  text-decoration: none;
+  color: white;
+  padding-top: 17.5px;
+  font-size: 20px;
+  /* padding-left: 1250px; */
+}
+.work,.contact{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 17.5px;
+}
+/* .contact{
+  color: white;
+  padding-left: 20px;
+} */
+.First {
+  /* background-image: url(bg_name.png); */
+  background-color: #f1e3cb;
+  height: 660px;
+}
+h1 {
+  /* padding-top: 250px; */
+  /* padding-left: 600px; */
+  font-size: 50px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+p{
+  text-align: center;
+  /* padding-left: 666px; */
+  margin-top: 5px;
+  margin-bottom: 119px;
+}
+.background {
+  display: block;
+  padding-bottom: 20px;
+  padding-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 160px;
+  width: 160px;
+}
+.mountain{
+  display: block;
+  /* background-color: #f1e3cb; */
+  height: 179px;
+  margin-left: auto;
+  margin-right: auto;
+}
